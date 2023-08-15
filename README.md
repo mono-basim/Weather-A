@@ -27,3 +27,7 @@ An advanced weather web app that utilizes multiple APIs to retrieve information 
 - [@Mono](https://www.github.com/mono-basim)
 - [@ladyGPT](https://chat.openai.com/)
 
+
+## NOTE :
+
+#### The response is in JSON format after client input in the DOM:
